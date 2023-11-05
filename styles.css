@@ -1,0 +1,13 @@
+body {
+  background-color: pinkyellow; /* 将整个页面背景设置为粉黃色 */
+}
+
+#poem h1 {
+  color: red; /* 设置詩的標題為紅色 */
+  font-size: 36px; /* 設置標題字體大小為36點 */
+}
+
+#poem p {
+  color: brown; /* 设置詩的內容為棕色 */
+  font-size: 18px; /* 設置內容字體大小為18點 */
+}
